@@ -15,7 +15,7 @@ PORT=3000
 
 # ✅ **`README.md` (Siap Tempel di Repo GitHub)**
 
-```md
+````md
 # 🚕 Telegram Taksibot EZ
 
 Telegram bot untuk pemesanan transportasi (taksi / pick-up service) dengan fitur:
@@ -32,7 +32,8 @@ Telegram bot untuk pemesanan transportasi (taksi / pick-up service) dengan fitur
 ---
 
 ## 📂 **Project Structure**
-```
+
+```text
 
 taksi-telegram/
 │
@@ -55,7 +56,7 @@ taksi-telegram/
 ├── .env.example
 ├── package.json
 └── README.md
-
+```
 ````
 
 ---
@@ -67,7 +68,7 @@ Clone repository:
 ```bash
 git clone https://github.com/ezarelz/telegram-taksibot-ez.git
 cd telegram-taksibot-ez
-````
+```
 
 Install dependencies:
 
