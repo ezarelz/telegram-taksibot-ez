@@ -1,20 +1,3 @@
-# ✅ **`.env.example`**
-
-```env
-# Telegram Bot Token
-BOT_TOKEN=your_telegram_bot_token_here
-
-# Chat ID admin penerima notifikasi order
-ADMIN_CHAT_ID=your_admin_chat_id_here
-
-# (Optional) Port jika nanti pakai webhook
-PORT=3000
-```
-
----
-
-# ✅ **`README.md` (Siap Tempel di Repo GitHub)**
-
 # 🚕 Telegram Taksibot EZ
 
 Telegram bot untuk pemesanan transportasi (taksi / pick-up service) dengan fitur:
