@@ -15,7 +15,6 @@ PORT=3000
 
 # ✅ **`README.md` (Siap Tempel di Repo GitHub)**
 
-````md
 # 🚕 Telegram Taksibot EZ
 
 Telegram bot untuk pemesanan transportasi (taksi / pick-up service) dengan fitur:
@@ -33,8 +32,7 @@ Telegram bot untuk pemesanan transportasi (taksi / pick-up service) dengan fitur
 
 ## 📂 **Project Structure**
 
-```text
-
+```md
 taksi-telegram/
 │
 ├── src/
@@ -57,7 +55,6 @@ taksi-telegram/
 ├── package.json
 └── README.md
 ```
-````
 
 ---
 
